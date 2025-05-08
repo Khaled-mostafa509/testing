@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Application is builded successfully'
+        echo 'Application is building successfully'
       }
     }
 
